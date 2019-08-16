@@ -6,4 +6,4 @@ change2
 
 change3
 
-change4 manage modify
+change4 manage modify change2
