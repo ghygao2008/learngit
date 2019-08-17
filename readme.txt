@@ -12,4 +12,5 @@ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 dev change1
 
-creating a new branch is quick $simple
+creating a new branch which is quick and simple
+
