@@ -11,3 +11,5 @@ stupit boss
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 dev change1
+
+creating a new branch is quick $simple
